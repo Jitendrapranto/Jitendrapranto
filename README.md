@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Pranto
 #### Now I am currently working on php with Laravel
-![Now I am currently working on php with Laravel](https://www.google.com/search?sca_esv=dab4a209d90a47a6&sxsrf=AHTn8zq7X5G7p4zSnm2dlIY4svkKkavcDg:1741429458584&q=php+with+laravel+banner&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBkzPWUS0OtApxR2914vrjk4ZqZZ4I2IkJifuoUeV0iQtITiOPPo9tDzmt9ZPGYJiIba3ipclDVbOjJlvTbgEP2uaQlc-5_UGVSeNyBgLUE-LuU7QglniEHm8vlMmuoW6Fk85S8hUhLv8pH3ZpUi387c59i5jFXKozyMBwE7DvtN6IGTFPw&sa=X&ved=2ahUKEwjg5Z6iovqLAxXCSWwGHZ_kDmYQtKgLegQIFRAB&biw=1366&bih=641&dpr=1#vhid=d5xuIx9A8kL1vM&vssid=mosaic)
-
 I am programming enthusiast always curious to learn new
 things. Learning something new puts me up for a challenge
 that I love to take.
@@ -24,9 +22,4 @@ Skills:  HTML / CSS/Javascript/php/c/c++/Mysql/Data structure/Algorithm/oop
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jitendrapranto&show_icons=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Jitendrapranto/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/Jitendrapranto)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Jitendrapranto)  
-
 
