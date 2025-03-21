@@ -4,7 +4,7 @@ I am programming enthusiast always curious to learn new
 things. Learning something new puts me up for a challenge
 that I love to take.
 
-Skills:  HTML / CSS/Javascript/php/c/c++/Mysql/Data structure/Algorithm/oop
+Skills:  HTML / CSS/Javascript/php/c/c++/Mysql/Data structure/Algorithm/oop/Tailwind CSS
 
 - 🔭 I’m currently working on php with Laravel 
 - 🌱 I’m currently learning php,Laravel and vue.js 
